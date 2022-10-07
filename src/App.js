@@ -6,7 +6,7 @@ import MovieCard from "./MovieCard";
 
 const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=e9ca62f3";
 
-const movie1 = {
+const movie = {
   Title: "Spiderman in Cannes",
   Year: "2016",
   imdbID: "tt5978586",
